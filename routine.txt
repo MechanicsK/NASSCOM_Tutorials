@@ -1,0 +1,16 @@
+Take wine dataset
+Descriptive Stats:
+Measure of Central Location
+Measure of spread
+Measure of relative data position
+Empirical Rule
+Chebychev's Theorem
+
+Tasks:
+Notebook the documentations
+Use numpy and pandas documentations
+Use matplotlib to plot
+
+Give some insights from wine datasets
+
+Use modular to write effective scripts
